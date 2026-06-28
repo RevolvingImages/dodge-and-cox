@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DodgeAndCox.Api/DodgeAndCox.Api.csproj" />
+  </Folder>
+</Solution>

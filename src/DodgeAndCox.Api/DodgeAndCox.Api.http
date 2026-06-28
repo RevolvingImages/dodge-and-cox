@@ -1,0 +1,6 @@
+@DodgeAndCox.Api_HostAddress = http://localhost:5229
+
+GET {{DodgeAndCox.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
